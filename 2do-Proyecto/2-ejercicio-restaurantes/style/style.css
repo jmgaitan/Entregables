@@ -1,0 +1,21 @@
+body{
+    background-color: #33afafa7;
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.conteiner-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+        border: 5px solid white;   
+        margin: 5px;
+    }
+
