@@ -2,6 +2,7 @@ body{
     font-family: verdana, Arial, sans-serif;
     background-color: #ffa26849;
     color: #79440ada;
+
 }
 
 img {
@@ -10,6 +11,7 @@ img {
 }
 
 header {
+
     color: orange;
     font-size: 20px;
     padding: 0%;
