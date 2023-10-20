@@ -31,21 +31,18 @@ header {
 
 .link:link {
     color: orange;
-    text-decoration: underline; 
+    text-decoration: underline; /* Quita la subrayado predeterminado de los enlaces */
     font-weight: bold;
   }
+
+#link-red {
+    
+}
 
 link:visited {
     color: #3ea7fdf5;
   }
 
-.newpaper .link:link{
-    color: red;
-}
-.newpaper link:visited{
-    color: blue;
-}
-  
 ul p{
     padding: 0%;
 }
